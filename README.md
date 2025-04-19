@@ -18,13 +18,13 @@ Whether building from scratch or optimizing existing code, I approach challenges
 
 ---
 
-### 🔧 Projects Worth Exploring
+## 🔧 Projects Worth Exploring
 
-- 🧠 `nand2tetris-hardware` – Built a 16-bit computer using only logic gates (HDL)  
-- ⚙️ `nand2tetris-assembler` – Java assembler that translates Hack assembly to binary  
-- 🖥️ `nand2tetris-vm-translator` – Virtual Machine implementation in Java  
-- 🔤 `nand2tetris-jack-compiler` – Wrote a compiler for a custom OOP language (Jack)  
-- 🎮 `nand2tetris-jack-tictactoe` – Full Tic-Tac-Toe game built using my own compiler and graphics  
+- ⚙️ `nand2tetris-assembler` – Java-based assembler that converts Hack assembly (`.asm`) to binary machine code (`.hack`).    
+- 🚀 `nand2tetris-vm-translator-advanced` – Full-featured VM translator supporting functions, branching, and bootstrap code.    
+- 🔤 `nand2tetris-jack-compiler` – Full Jack-to-VM compiler using tokenizer, syntax parser, symbol table, and VM writer.    
+- 🎮 `nand2tetris-jack-game` – Interactive 2-player Tic Tac Toe game built entirely in Jack, using screen/keyboard OS classes.    
+ 
 
 ---
 
