@@ -1,7 +1,7 @@
 ### Hi, I'm Ohad Swissa 👋
 
 🎓 Student in the Computer Science & Entrepreneurship Honors Program at Reichman University.  
-🎯 Aspiring Software Engineer - Backend • Machine Learning • Low-Level Systems. 
+🎯 Aspiring Software Engineer - Backend • Machine Learning • Low-Level Systems.  
 🎖 Former Special Forces Company Commander (IDF Major).
 
 ---
