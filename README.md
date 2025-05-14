@@ -19,11 +19,10 @@ Whether building from scratch or optimizing existing code, I approach challenges
 ---
 
 ## 🔧 Projects Worth Exploring
-
-- ⚙️ `nand2tetris-assembler` – Java-based assembler that converts Hack assembly (`.asm`) to binary machine code (`.hack`).    
-- 🚀 `nand2tetris-vm-translator-advanced` – Full-featured VM translator supporting functions, branching, and bootstrap code.    
+- 📈 `stock-pattern-detector` – A local Flask-based POC for detecting cup-and-handle stock patterns using 5-minute interval data and configurable thresholds.
 - 🔤 `nand2tetris-jack-compiler` – Full Jack-to-VM compiler using tokenizer, syntax parser, symbol table, and VM writer.    
-- 🎮 `nand2tetris-jack-game` – Interactive 2-player Tic Tac Toe game built entirely in Jack, using screen/keyboard OS classes.    
+- 🎮 `nand2tetris-jack-game` – Interactive 2-player Tic Tac Toe game built entirely in Jack, using screen/keyboard OS classes.
+- ⚙️ `nand2tetris-assembler` – Java-based assembler that converts Hack assembly (`.asm`) to binary machine code (`.hack`).       
  
 
 ---
