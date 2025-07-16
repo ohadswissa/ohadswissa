@@ -14,7 +14,7 @@ My experiences have shaped me into someone who thrives under pressure, adapts qu
 I enjoy understanding how systems work - from low-level computing to modern backend and ML infrastructure.  
 Whether building from scratch or optimizing existing code, I approach challenges with curiosity, structure, and a willingness to learn.
 
-📌 I'm currently seeking **Software Engineering Internship** or **Student Developer** roles for 2025.
+📌 I'm currently working as a **Software Engineer Student at Cisco**, where I develop backend infrastructure and internal tools as part of a cybersecurity-focused architecture team.
 
 ---
 
