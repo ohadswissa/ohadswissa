@@ -1,7 +1,7 @@
 ### Hi, I'm Ohad Swissa 👋
 
-💻 **Software Engineer Student at Cisco**, developing backend infrastructure and internal tools as part of a cybersecurity-focused architecture team.    
-🎓 Student in the Computer Science & Entrepreneurship Honors Program at Reichman University.  
+💻 **Software Engineer at Cisco**, developing backend infrastructure and internal tools as part of a cybersecurity-focused architecture team.    
+🎓 Graduate of the Computer Science & Entrepreneurship Honors Program at Reichman University.
 🎖 Former Special Forces Company Commander (IDF Major). 
 
 ---
